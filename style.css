@@ -1,0 +1,219 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+* {
+  font-family: 'Kumbh Sans', sans-serif;
+  margin:0;
+  padding:0;
+  box-sizing: boder-box;
+  scroll-padding-top: 5rem;
+    scroll-behavior: smooth;
+  
+   
+}
+header{
+  background-color: white;
+}
+
+
+
+nav a{
+    
+  
+  
+  
+  background-color: blueviolet;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    
+    padding: 0.5rem;
+    border-radius: 10px;
+      display:flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+
+}
+nav{
+    display: flex;
+    gap: 6rem ;
+    
+  justify-content: center;
+  align-items: center;
+    
+}
+h1{
+  
+text-align: center;
+  font-size: 70px;
+  background-color: blueviolet;
+  
+}
+#div2{
+  padding-top: 13rem;
+}
+div{
+  padding-top: 7rem;
+}
+
+
+
+
+div a:hover {
+  background: aliceblue;
+transform: scale(1.1);
+transition: tramsform.4s;
+}
+h2{
+  text-align: center;
+}
+p{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 0.5rem;
+  
+  
+  text-align: center;
+  background-color: cadetblue;
+  
+  border-radius: 3px
+  
+}
+section{
+   
+  border: 1px solid red;
+    height:calc(100vh - 5rem) ;
+    padding: 3rem;
+  
+}
+section h2{
+  background-color: cadetblue;
+   border-radius: 10px
+  
+}
+#h21{
+  padding-top: 4rem;
+}
+#img1{
+  
+}
+#fasesmi h3{
+ background-color: cadetblue;
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-weight: bold;
+  display: flex;
+  gap: 6rem ;
+  
+}
+#fasesme h3{
+  background-color: cadetblue;
+  border-radius: 5px;
+  
+}  
+#fa{
+  margin-top: -3rem;
+}
+
+#fi{
+  margin-top: -3rem;
+}
+#cisco big{
+  
+  background-color: cadetblue;
+  border-radius: 20px;
+  font-size: 25px;
+  
+  display:flex;
+  
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-top: 5rem;
+
+}
+
+#a1 big{
+  background-color: cadetblue;
+  border-radius: 20px;
+  font-size: 25px;
+  
+  display:flex;
+  
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-top: 5rem;
+}
+#a2 big{
+  background-color: cadetblue;
+  border-radius: 20px;
+  font-size: 25px;
+  
+  display:flex;
+  
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-top: 5rem;
+}
+div img{
+  margin-top:-70px;
+  border:5px solid blue;
+  margin-bottom: 24px;;
+  text-align: center;
+}
+#aa{
+    margin-top: -3rem;
+    font-size: 30px;
+  background-color: cadetblue;
+  border-radius: 10px;
+}
+#aaa{
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 25px;
+}
+#c big{
+ background-color: cadetblue;
+  border-radius: 20px;
+  font-size: 25px;
+  
+  display:flex;
+  
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin-top: 5rem;
+}
+#geraldo{
+  margin-top: 7rem;
+  
+}
+table{
+  
+  margin-top: 7rem;
+}
